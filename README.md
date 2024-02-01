@@ -1,6 +1,6 @@
 Code whisperer, crafting the future with AI and Robotics ⚙️
 
-I'm **@GitCoder052023**, a relentless learner captivated by the boundless potential of **Machine Learning**, **Deep Learning**, **AI**, and **Robotics**.  Python, the programming maestro, is my current muse, paving the way for my grand tech orchestra. But this is just the prelude!
+I'm **@GitCoder052023** My real name is **Hamdan Khubaib**, a relentless learner captivated by the boundless potential of **Machine Learning**, **Deep Learning**, **AI**, and **Robotics**.  Python, the programming maestro, is my current muse, paving the way for my grand tech orchestra. But this is just the prelude!
 
 Java and C, renowned for their versatility, await in the wings, ready to enrich my technical repertoire. Mastering these languages will expand my creative palette, preparing me to paint groundbreaking projects in the realms of Robotics and AI.
 
