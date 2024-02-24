@@ -1,25 +1,27 @@
-Code whisperer, crafting the future with AI and Robotics ⚙️
+# Hamdan Khubaib
 
-I'm **@GitCoder052023** My real name is **Hamdan Khubaib**, a relentless learner captivated by the boundless potential of **Machine Learning**, **Deep Learning**, **AI**, and **Robotics**.  Python, the programming maestro, is my current muse, paving the way for my grand tech orchestra. But this is just the prelude!
+👋 Hello, fellow code whisperer! I'm Hamdan Khubaib, a relentless learner captivated by the boundless potential of **Machine Learning**, **Deep Learning**, **AI**, and **Robotics**. Python, the programming maestro, is my current muse, paving the way for my grand tech orchestra. But this is just the prelude!
 
-Java and C, renowned for their versatility, await in the wings, ready to enrich my technical repertoire. Mastering these languages will expand my creative palette, preparing me to paint groundbreaking projects in the realms of Robotics and AI.
+## About Me
 
-But my ambitions are far from solitary. I invite you to join me on this thrilling journey of discovery, where curiosity fuels our code and innovation orchestrates our triumphs. Here, you'll find a vibrant stage showcasing my top projects:
+- **Name**: Hamdan Khubaib
+- **Experience in Python**: 4 years
+- **Interests**: Machine Learning, Robotics
 
-**Luna**: Luna is a versatile AI assistant designed to make your life easier by automating tasks, providing information, and managing your digital life. She can respond to your voice commands to perform a wide range of actions.
+## My Projects
 
-**Project Link**: https://github.com/GitCoder052023/Luna
+I believe that every line of code is a brushstroke on the canvas of innovation. Here's a glimpse into my creative journey:
 
-**Build with Gemini**: This Gemini Repository uses Google's Gemini models to perform various tasks, and shows usage, and Project ideas for students and researchers, and this repo gives an ideas to use Google pre-trained model Gemini to make things easier.
+1. **Luna**: Luna is my versatile AI assistant designed to make your life easier by automating tasks, providing information, and managing your digital life. She can respond to your voice commands to perform a wide range of actions. [Explore Luna](https://github.com/GitCoder052023/Luna)
 
-**Project link**: https://github.com/GitCoder052023/Build-with-Gemini
+2. **Dev**: Dev is a multi-purpose tool designed to streamline your coding workflow and leverage the power of large language models to enhance your productivity. It automates several common tasks and provides valuable insights through AI capabilities, making your coding experience smoother and more efficient. [Try Dev](https://github.com/GitCoder052023/Dev)
 
-**Gemini Template**: This Python repository is a free to use template for everyone who want to use google Gemini models in his python code
+These projects aren't just lines of code; they're testaments to my unique approach, pushing the boundaries of what's possible. Dive into their depths and feel the electrifying hum of creativity.
 
-**Project Link**: https://github.com/GitCoder052023/Gemini-Template
+## Connect with Me
 
-These are not just lines of code; they're testaments to my unique approach, pushing the boundaries of what's possible. Dive into their depths and feel the electrifying hum of creativity.
+**Email:** K.alam93899@gmail.com
 
-Beyond these showcased projects, a treasure trove of exploration awaits. Each commit, each line of code, is a testament to my unwavering dedication to learning and progress. Let's unlock the secrets of tomorrow, together.
+**Reddit:** https://www.reddit.com/user/Quirky-Low-7500/
 
-Connect with me and let's code the future: K.alam93899@gmail.com
+Remember, curiosity fuels our code, and innovation orchestrates our triumphs. Let's code the future! 🚀
