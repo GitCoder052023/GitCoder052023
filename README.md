@@ -1,27 +1,24 @@
-# Hamdan Khubaib
+# 💫 About Me:
+I am currently working on web development, I am looking to collaborate on python projects and open-source web development projects. <br>I am looking for help in frontend designing. I am currently learning web development.<br>Ask me about python, html, css, JavaScript
 
-👋 Hello, fellow code whisperer! I'm Hamdan Khubaib, a relentless learner captivated by the boundless potential of **Machine Learning**, **Deep Learning**, **AI**, and **Robotics**. Python, the programming maestro, is my current muse, paving the way for my grand tech orchestra. But this is just the prelude!
 
-## About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hamdan Khubaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hamdan Khubaib) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Quirky-Low-7500) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCA0FB4XpNUIu6w1nqHlZrlA) 
 
-- **Name**: Hamdan Khubaib
-- **Experience in Python**: 4 years
-- **Interests**: Machine Learning, Robotics
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GitCoder052023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GitCoder052023&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCoder052023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## My Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GitCoder052023&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I believe that every line of code is a brushstroke on the canvas of innovation. Here's a glimpse into my creative journey:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GitCoder052023&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-1. **Luna**: Luna is my versatile AI assistant designed to make your life easier by automating tasks, providing information, and managing your digital life. She can respond to your voice commands to perform a wide range of actions. [Explore Luna](https://github.com/GitCoder052023/Luna)
+---
+[![](https://visitcount.itsvg.in/api?id=GitCoder052023&icon=0&color=0)](https://visitcount.itsvg.in)
 
-2. **Dev**: Dev is a multi-purpose tool designed to streamline your coding workflow and leverage the power of large language models to enhance your productivity. It automates several common tasks and provides valuable insights through AI capabilities, making your coding experience smoother and more efficient. [Try Dev](https://github.com/GitCoder052023/Dev)
-
-These projects aren't just lines of code; they're testaments to my unique approach, pushing the boundaries of what's possible. Dive into their depths and feel the electrifying hum of creativity.
-
-## Connect with Me
-
-**Email:** K.alam93899@gmail.com
-
-**Reddit:** https://www.reddit.com/user/Quirky-Low-7500/
-
-Remember, curiosity fuels our code, and innovation orchestrates our triumphs. Let's code the future! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
