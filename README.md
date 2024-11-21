@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a web development enthusiast with a growing focus on frontend and backend technologies. I am currently seeking opportunities to collaborate on Python-based projects and open-source web development initiatives. While I am continuing to expand my skills in web development, I am particularly interested in improving my frontend design expertise and would appreciate guidance in this area.
+I am a web development enthusiast with a growing focus on frontend and backend technologies. I am currently seeking opportunities to collaborate on Python-based projects and open-source web development initiatives. While I am continuing to expand my skills in web development, I am particularly interested in improving my Backend design expertise and would appreciate guidance in this area.
 
 
 ## 🌐 Socials:
