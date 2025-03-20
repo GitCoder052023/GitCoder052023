@@ -1,15 +1,13 @@
-<h1 align="center">Hamdan Khubaib 🚀</h1>  
+<h1 align="center">Hamdan Khubaib</h1>  
 
 <p align="center">
   <strong>MERN Stack Developer | Building Scalable & Modern Web Apps</strong>
 </p>
 
----
-
 ### About Me  
 - Passionate about **modern web development** and **scalable applications**.  
 - Skilled in **React, Node.js, Express, MongoDB, Tailwind CSS, Python**.  
-- Exploring **Next.js & Machine Learning**.  
+- Exploring **Next.js & Machine Learning**.
 
 ---
 
@@ -37,7 +35,5 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
----
 
 <p align="center"><i>"Code. Create. Innovate."</i></p>
